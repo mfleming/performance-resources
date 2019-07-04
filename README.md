@@ -12,11 +12,13 @@ submit links to your own work.
 
 # Blogs
 
-- [Daniel Lemire's blog](https://lemire.me/blog/)
+- [Paweł Dziepak's blog](https://pdziepak.github.io/)
 
 - [Branch Free by Geoff Langdale](https://branchfree.org/)
 
-- [Paweł Dziepak's blog](https://pdziepak.github.io/)
+- [Daniel Lemire's blog](https://lemire.me/blog/)
+
+- [Max Rottenkolber's blog](https://mr.gy/blog/)
 
 # Lists and Groups
 
