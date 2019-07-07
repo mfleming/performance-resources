@@ -12,6 +12,8 @@ submit links to your own work.
 
 # Blogs
 
+- [Travis Downs' blog](https://travisdowns.github.io/)
+
 - [Paweł Dziepak's blog](https://pdziepak.github.io/)
 
 - [Branch Free by Geoff Langdale](https://branchfree.org/)
