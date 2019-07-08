@@ -34,6 +34,14 @@ submit links to your own work.
 
 - [Pro .NET Benchmarking - Andrey Akinshin](https://www.apress.com/gp/book/9781484249406)
 
+- Every Computer Performance Book - Bob Wescott
+
+- The Art of Capacity Planning: Scaling Web Resources - John Allspaw 
+
+- Guerrilla Capacity Planning: A Tactical Approach to Planning for Highly Scalable Applications and Services - Neil J. Gunther
+
+- Analyzing Computer Systems Performance: With Perl: PDQ - Neil J. Gunther
+
 # Twitter
 
 - [@matt_dz](https://twitter.com/matt_dz)
@@ -58,6 +66,9 @@ submit links to your own work.
 
 - [Martin Thompson](https://twitter.com/mjpt777)
 
+- [Gil Tene](https://twitter.com/giltene)
+
 - [Krister Walfridsson](https://twitter.com/kwalfridsson)
 
 - [Matt Warren](https://twitter.com/matthewwarren)
+
