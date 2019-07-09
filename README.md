@@ -22,6 +22,8 @@ submit links to your own work.
 
 - [Max Rottenkolber's blog](https://mr.gy/blog/)
 
+- [Nan Xiao's blog](https://nanxiao.me/en/tag/performance/)
+
 # Lists and Groups
 
 - [Mechanical Sympathy](https://groups.google.com/forum/#!forum/mechanical-sympathy)
