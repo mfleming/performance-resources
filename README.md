@@ -24,6 +24,10 @@ submit links to your own work.
 
 - [Nan Xiao's blog](https://nanxiao.me/en/tag/performance/)
 
+- [Davidlohr Bueso's Linux Performance Goodies](https://blog.stgolabs.net/search/label/performance)
+
+- [Oleg Karasik's monthly .NET R&D digest](https://olegkarasik.wordpress.com/category/net-rd-digest/)
+
 # Lists and Groups
 
 - [Mechanical Sympathy](https://groups.google.com/forum/#!forum/mechanical-sympathy)
@@ -76,3 +80,4 @@ submit links to your own work.
 
 - [Matt Warren](https://twitter.com/matthewwarren)
 
+- [JVMPerformance](https://twitter.com/JVMPerformance)
