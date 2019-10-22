@@ -32,6 +32,8 @@ submit links to your own work.
 
 - [ACM Transactions on Architecture and Code Optimization (TACO)](https://taco.acm.org/)
 
+- [Performance Matters](https://performancematters.dev/)
+
 # Books
 
 - [Pro .NET Benchmarking - Andrey Akinshin](https://www.apress.com/gp/book/9781484249406)
