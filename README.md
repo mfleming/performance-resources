@@ -52,13 +52,11 @@ submit links to your own work.
 
 - Analyzing Computer Systems Performance: With Perl: PDQ - Neil J. Gunther
 
-- [High Performance Browser Networking](https://hpbn.co/) - Ilya Grigorik
-
 - Systems Performance: Enterprise and the Cloud; Brendan Gregg
 
 - BPF Performance Tools; Brendan Gregg
 
-- High Performance Browser Networking: What every web developer should know about networking and web performance - Ilya Grigorik
+- [High Performance Browser Networking: What every web developer should know about networking and web performance](https://hpbn.co) - Ilya Grigorik
 
 - Performance Solutions: A Practical Guide to Creating Responsive, Scalable Software -  Connie U. Smith, Lloyd G. Williams
 
