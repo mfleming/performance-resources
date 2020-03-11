@@ -28,6 +28,8 @@ submit links to your own work.
 
 - [Oleg Karasik's monthly .NET R&D digest](https://olegkarasik.wordpress.com/category/net-rd-digest/)
 
+- [Alexander Podelko's blog](https://alexanderpodelko.com/blog/)
+
 # Lists and Groups
 
 - [Mechanical Sympathy](https://groups.google.com/forum/#!forum/mechanical-sympathy)
@@ -51,6 +53,22 @@ submit links to your own work.
 - Analyzing Computer Systems Performance: With Perl: PDQ - Neil J. Gunther
 
 - [High Performance Browser Networking](https://hpbn.co/) - Ilya Grigorik
+
+- Systems Performance: Enterprise and the Cloud; Brendan Gregg
+
+- BPF Performance Tools; Brendan Gregg
+
+- High Performance Browser Networking: What every web developer should know about networking and web performance - Ilya Grigorik
+
+- Performance Solutions: A Practical Guide to Creating Responsive, Scalable Software -  Connie U. Smith, Lloyd G. Williams
+
+- Java Performance - The Definitive Guide - Scott Oaks
+
+- Optimizing Java: Practical Techniques for Improving JVM Application Performance -  Benjamin J Evans , James Gough, Chris Newland
+
+- High-Performance Java Persistence - Vlad Mihalcea 
+
+- Go-Perf Book, Thoughts on Go performance optimization - Damian Gryski
 
 # Twitter
 
@@ -82,6 +100,18 @@ submit links to your own work.
 
 - [Matt Warren](https://twitter.com/matthewwarren)
 
+- [Alexander Podelko](https://twitter.com/apodelko)
+
+- [Tim Kadlec](https://twitter.com/tkadlec)
+
+- [Patrick Meenan](https://twitter.com/patmeenan)
+
+- [Emery Berger](https://twitter.com/emeryberger)
+
 - [JVMPerformance](https://twitter.com/JVMPerformance)
 
 - [Ilya Grigorik](https://twitter.com/igrigorik)
+
+- [Go performance channel](https://twitter.com/go_perf)
+
+- [PerfBytes](https://twitter.com/PerfBytes)
