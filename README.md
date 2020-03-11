@@ -50,6 +50,8 @@ submit links to your own work.
 
 - Analyzing Computer Systems Performance: With Perl: PDQ - Neil J. Gunther
 
+- [High Performance Browser Networking](https://hpbn.co/) - Ilya Grigorik
+
 # Twitter
 
 - [@matt_dz](https://twitter.com/matt_dz)
@@ -81,3 +83,5 @@ submit links to your own work.
 - [Matt Warren](https://twitter.com/matthewwarren)
 
 - [JVMPerformance](https://twitter.com/JVMPerformance)
+
+- [Ilya Grigorik](https://twitter.com/igrigorik)
