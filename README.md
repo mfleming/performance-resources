@@ -30,6 +30,8 @@ submit links to your own work.
 
 - [Alexander Podelko's blog](https://alexanderpodelko.com/blog/)
 
+- [Akshay Deshpande's blog](https://performanceengineeringin.wordpress.com/)
+
 # Lists and Groups
 
 - [Mechanical Sympathy](https://groups.google.com/forum/#!forum/mechanical-sympathy)
