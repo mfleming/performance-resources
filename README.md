@@ -40,6 +40,16 @@ submit links to your own work.
 
 - [Performance Matters](https://performancematters.dev/)
 
+
+# Talks 
+- [Coffee Compiler Club meeting - discussion about perf counters, i-cache layout, diagnosing out-of-bandwidth etc.](https://www.youtube.com/watch?v=kKzBbKRXhQM)
+
+- [2016 LLVM Developers’ Meeting: Causes of Performance Instability due to Code Placement in X86 ](https://www.youtube.com/watch?v=IX16gcX4vDQ)
+
+- [Understanding Compiler Optimization - Chandler Carruth - Opening Keynote Meeting C++ 2015](https://www.youtube.com/watch?v=FnGCDLhaxKU)
+
+- [Want fast C++? Know your hardware! - Timur Doumler - Meeting C++ 2016](https://www.youtube.com/watch?v=a12jYibw0vs)
+
 # Books
 
 - [Pro .NET Benchmarking - Andrey Akinshin](https://www.apress.com/gp/book/9781484249406)
