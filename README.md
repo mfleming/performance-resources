@@ -68,6 +68,8 @@ submit links to your own work.
 
 - Go-Perf Book, Thoughts on Go performance optimization - Damian Gryski
 
+- [Performance analysis and tuning on modern CPUs](https://book.easyperf.net/perf_book) - Denis Bakhvalov
+
 # Twitter
 
 - [@matt_dz](https://twitter.com/matt_dz)
