@@ -30,6 +30,8 @@ submit links to your own work.
 
 - [Alexander Podelko's blog](https://alexanderpodelko.com/blog/)
 
+- [Brendan Gregg's Blog](http://www.brendangregg.com/blog/)
+
 # Lists and Groups
 
 - [Mechanical Sympathy](https://groups.google.com/forum/#!forum/mechanical-sympathy)
@@ -46,7 +48,7 @@ submit links to your own work.
 
 - Every Computer Performance Book - Bob Wescott
 
-- The Art of Capacity Planning: Scaling Web Resources - John Allspaw 
+- The Art of Capacity Planning: Scaling Web Resources - John Allspaw
 
 - Guerrilla Capacity Planning: A Tactical Approach to Planning for Highly Scalable Applications and Services - Neil J. Gunther
 
@@ -64,7 +66,7 @@ submit links to your own work.
 
 - Optimizing Java: Practical Techniques for Improving JVM Application Performance -  Benjamin J Evans , James Gough, Chris Newland
 
-- High-Performance Java Persistence - Vlad Mihalcea 
+- High-Performance Java Persistence - Vlad Mihalcea
 
 - Go-Perf Book, Thoughts on Go performance optimization - Damian Gryski
 
