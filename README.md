@@ -70,6 +70,10 @@ submit links to your own work.
 
 - [Performance analysis and tuning on modern CPUs](https://book.easyperf.net/perf_book) - Denis Bakhvalov
 
+# Papers
+
+- [What Modern NVMe Storage Can Do, and How to Exploit it: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf) - Haas and Leis
+
 # Twitter
 
 - [@matt_dz](https://twitter.com/matt_dz)
